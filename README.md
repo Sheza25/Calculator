@@ -13,5 +13,5 @@ A simple and responsive calculator built using **HTML**, **CSS**, and **JavaScri
 ## 💻 Technologies Used
 
 - **HTML** – for structure  
-- **CSS** – for styling and layout (Flexbox/Grid)  
+- **CSS** – for styling and layout (Grid)  
 - **JavaScript** – for calculator functionality 
